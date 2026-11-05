@@ -35,3 +35,10 @@ A página usa fontes do Google Fonts quando há internet; se estiver offline, ut
 
 ## Música atualizada
 O botão de música usa o MP3 em `assets/voce-e-meu-tchan.mp3`, com volume inicial de 65%, pausa e repetição. A reprodução depende de um clique do visitante.
+
+
+## Versão Transilvânia Gótica
+
+Visual atualizado com lua vermelha, brilhos, corações flutuantes, castelo e referências corrigidas ao casal Johnny e Mavis. As três fotos, o MP3, a contagem de tempo, a carta e a história original foram preservados.
+
+Para atualizar o GitHub Pages, envie o conteúdo deste ZIP à raiz da branch `main`, substituindo os arquivos de mesmo nome. A pasta `assets` deve permanecer na raiz. O GitHub Pages usa `main` e `/ (root)`.
